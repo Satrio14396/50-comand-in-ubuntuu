@@ -1,6 +1,6 @@
 # 50 comand in ubuntuu
 Berikut adalah daftar 50 perintah Ubuntu yang sering digunakan, beserta penjelasannya:
-1-10: Navigasi & Manajemen File
+# 1-10: Navigasi & Manajemen File
 
     pwd – Menampilkan direktori kerja saat ini.
     ls – Menampilkan isi direktori.
@@ -13,7 +13,7 @@ Berikut adalah daftar 50 perintah Ubuntu yang sering digunakan, beserta penjelas
     mv [file1] [file2] – Memindahkan atau mengganti nama file.
     find [path] -name "[nama_file]" – Mencari file di dalam direktori.
 
-11-20: Manajemen Paket & Software
+# 11-20: Manajemen Paket & Software
 
     apt update – Memperbarui daftar paket.
     apt upgrade – Meng-upgrade semua paket yang sudah usang.
@@ -26,7 +26,7 @@ Berikut adalah daftar 50 perintah Ubuntu yang sering digunakan, beserta penjelas
     flatpak remove [package] – Menghapus aplikasi Flatpak.
     which [command] – Menunjukkan lokasi eksekusi dari perintah.
 
-21-30: Informasi Sistem & Proses
+# 21-30: Informasi Sistem & Proses
 
     uname -a – Menampilkan informasi sistem.
     uptime – Menampilkan lama sistem berjalan.
@@ -39,7 +39,7 @@ Berikut adalah daftar 50 perintah Ubuntu yang sering digunakan, beserta penjelas
     du -sh [folder] – Menampilkan ukuran folder tertentu.
     free -h – Menampilkan penggunaan RAM.
 
-31-40: Manajemen Pengguna & Hak Akses
+# 31-40: Manajemen Pengguna & Hak Akses
 
     whoami – Menampilkan pengguna saat ini.
     id – Menampilkan ID pengguna dan grup.
@@ -52,7 +52,7 @@ Berikut adalah daftar 50 perintah Ubuntu yang sering digunakan, beserta penjelas
     usermod -aG [grup] [user] – Menambahkan pengguna ke grup.
     sudo [command] – Menjalankan perintah sebagai administrator.
 
-41-50: Jaringan & Lainnya
+# 41-50: Jaringan & Lainnya
 
     ping [domain/ip] – Mengecek koneksi ke server.
     wget [url] – Mengunduh file dari URL.
